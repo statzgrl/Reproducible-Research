@@ -7,7 +7,7 @@
 ##CODE INFORMATION##
 
 #Written by: Sarah Wondmeneh and Yiqiang Zhao#
-#Github Link: #
+#Github Link: https://github.com/statzgrl/Reproducible-Research/blob/master/Paper5.R
 
 ############################################
 
